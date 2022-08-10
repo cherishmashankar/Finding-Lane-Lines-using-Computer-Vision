@@ -12,4 +12,4 @@ OpenCV-Python libraries (CV2)
 
 
 ```
-![Farmers Market Finder Demo](OUTPUT_PATH_Clip.mp4)
+![Farmers Market Finder Demo](OUTPUT_PATH.gif)
