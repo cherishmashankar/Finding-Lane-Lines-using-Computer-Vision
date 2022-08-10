@@ -12,4 +12,5 @@ OpenCV-Python libraries (CV2)
 
 
 ```
-![Farmers Market Finder Demo](OUTPUT_PATH.gif)
+
+![Alt Text](https://github.com/cherishmashankar/Finding-Lane-Lines-using-Computer-Vision/blob/master/OUTPUT_PATH_Clip.mp4)
