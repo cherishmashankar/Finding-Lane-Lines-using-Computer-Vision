@@ -10,4 +10,4 @@ OpenCV-Python libraries (CV2)
 ```
 
 ### Output Sample Clip
-![Alt Text](https://github.com/cherishmashankar/Finding-Lane-Lines-using-Computer-Vision/blob/master/OUTPUT_PATH_Clip.mp4)
+![Alt Text](https://github.com/cherishmashankar/Finding-Lane-Lines-using-Computer-Vision/blob/master/OUTPUT_PATH.gif)
